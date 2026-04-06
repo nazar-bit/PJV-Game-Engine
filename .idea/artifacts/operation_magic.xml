@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="operation-magic">
+    <output-path>$PROJECT_DIR$/out/artifacts/operation_magic</output-path>
+    <root id="archive" name="operation-magic.jar">
+      <element id="archive" name="operation_magic.jar">
+        <element id="module-output" name="operation-magic" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+module:cz.cvut.fel.pjv
+cz.cvut.fel.pjv
+cz.cvut.fel.pjv.blocks
+cz.cvut.fel.pjv.chunks
+cz.cvut.fel.pjv.entities
+cz.cvut.fel.pjv.levelGraph
+cz.cvut.fel.pjv.managers
+cz.cvut.fel.pjv.weapons
+cz.cvut.fel.pjv.weapons.weaponInstances
